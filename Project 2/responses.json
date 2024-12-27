@@ -1,0 +1,147 @@
+{
+    "coffee": [
+        "The campus coffee bar is open from 8 AM to 4 PM, {name}. It's a great spot to relax or get a quick pick-me-up.",
+        "If you're looking for coffee, the coffee bar opens at 8 AM and closes at 4 PM. Don't miss out on their daily specials, {name}!",
+        "The coffee bar serves freshly brewed coffee, {name}. You should definitely try their specialty drinks!"
+    ],
+    "library": [
+        "The library is open from 9 AM to 7 PM, {name}. You can borrow books or study in peace during these hours.",
+        "The library is a quiet place for studying and is open between 9 AM and 7 PM, {name}. They also have computers for student use.",
+        "Our library has a vast collection of books, journals, and online resources, {name}. Don't forget to check out the digital catalog."
+    ],
+    "admissions": [
+        "For admissions, you need to visit our admissions office, which is open from 9 AM to 5 PM, {name}. You can also apply online.",
+        "You can apply through our website or visit the admissions office from 9 AM to 5 PM, {name}. Make sure to check the deadlines!",
+        "Admissions are open for the fall semester, {name}. Please visit our website to see the application process and requirements."
+    ],
+    "courses": [
+        "We offer a variety of courses, {name}. You can find the course catalog on our website or ask the academic advisor for recommendations.",
+        "The list of courses for this semester is available online, {name}. Be sure to check prerequisites before registering.",
+        "Courses are available in multiple departments, {name}. Check the online catalog for detailed course descriptions and schedules."
+    ],
+    "campus": [
+        "The campus is beautiful and open for students from 8 AM to 10 PM, {name}. You can walk around, enjoy the nature trails, or study in one of our outdoor spaces.",
+        "Our campus is large with various academic buildings, and you can freely explore the campus from 8 AM to 10 PM, {name}. Don't forget to check out the student center!",
+        "The campus has several green spaces and recreational areas, {name}. Feel free to visit the quad or take a walk near the lake."
+    ],
+    "tuition": [
+        "Tuition rates vary depending on your course of study, {name}. Please visit our tuition page for detailed information on fees and scholarships.",
+        "For detailed tuition and fees, visit the student finance section on our website, {name}. Scholarships are also available for eligible students.",
+        "Tuition varies by program, {name}, but you can find detailed fee structures on the university's finance page."
+    ],
+    "sports": [
+        "Our sports facilities are open from 6 AM to 10 PM, {name}. You can join sports teams or use the gym and outdoor courts.",
+        "We have various sports teams and recreational activities, {name}. Our gym is open from 6 AM to 10 PM, and we offer yoga and fitness classes too.",
+        "The university offers a variety of sports clubs, {name}. From soccer to swimming, you can join any of our sports teams this semester."
+    ],
+    "student clubs": [
+        "There are many student clubs on campus, {name}. You can find one that interests you, from art to technology, and join during the club fair each semester.",
+        "We have clubs for almost every interest, {name}. Check the student affairs office for more information on how to join.",
+        "Student clubs are a great way to meet new people, {name}. Join one of our active clubs, like the drama club or robotics club."
+    ],
+    "accommodation": [
+        "The university offers on-campus housing for students, {name}. There are various options, including dorms and apartments. Please contact the housing office for availability.",
+        "We have a range of on-campus accommodation options, {name}. Housing applications are available online, but spots fill up quickly, so be sure to apply early.",
+        "Our accommodation office provides various housing options, {name}. Whether you're looking for a shared room or a private apartment, we have you covered."
+    ],
+    "transportation": [
+        "We offer a student bus pass that will give you access to local transportation, {name}. It's valid for both on-campus and off-campus routes.",
+        "There are buses running every 30 minutes around campus and to nearby areas. You can use the student bus pass to travel, {name}.",
+        "For local transportation, {name}, you can use the student bus pass that gives you unlimited access to all city routes."
+    ],
+    "exams": [
+        "Exams are typically held at the end of each semester, {name}. You should check the exam schedule on your student portal for specific dates.",
+        "Final exams are scheduled at the end of the semester, {name}. Make sure to review the exam timetable on your portal.",
+        "Exams are held in the last two weeks of the semester, {name}. Be sure to check the schedule for your individual courses."
+    ],
+    "food": [
+        "There are several dining options on campus, {name}. You can try the main dining hall, or grab a quick bite from the food trucks outside the library.",
+        "Our campus offers a range of food options, from sit-down meals to quick snacks, {name}. The cafeteria is open from 7 AM to 8 PM.",
+        "The dining hall serves breakfast, lunch, and dinner every day, {name}. There are also vegan and vegetarian options available."
+    ],
+    "health services": [
+        "The health services office is open from 9 AM to 5 PM, {name}. You can make an appointment for consultations or get general medical advice.",
+        "If you're feeling unwell, visit the health services office during working hours, {name}. They offer walk-in consultations and basic care.",
+        "We have a fully equipped health center on campus, {name}. The clinic is open for routine health checkups and emergency services."
+    ],
+    "career services": [
+        "Career services are available to students, {name}. They offer resume workshops, interview coaching, and job placement support.",
+        "Our career center offers resume reviews, job search assistance, and interview preparation, {name}. Visit them for help with your career development.",
+        "The career services office can help you with job placement, {name}. They also host career fairs and networking events throughout the year."
+    ],
+    "student support": [
+        "If you need academic or personal support, {name}, our student support services are here to help. They offer tutoring, counseling, and mentoring programs.",
+        "The student support office provides a range of services, {name}, including counseling, tutoring, and disability support.",
+        "For personal or academic challenges, {name}, the student support office can connect you with the resources you need."
+    ],
+    "events": [
+        "The university hosts events all year round, {name}. Check the student portal for upcoming events, including guest lectures, concerts, and social gatherings.",
+        "We have a full calendar of events, {name}, from guest speakers to movie nights. Make sure to check the event schedule every month.",
+        "Our events calendar is packed with activities for students, {name}. From networking events to fun social gatherings, there’s always something happening."
+    ],
+    "international students": [
+        "If you're an international student, {name}, there are resources available for you, including visa support and orientation programs.",
+        "International students can visit the international office for guidance on visas, housing, and other services, {name}. They’re here to help you.",
+        "We have a dedicated team for international student support, {name}. They assist with everything from documentation to cultural integration."
+    ],
+    "printing": [
+        "You can print documents at the library or the student center, {name}. Printing services are available for a small fee.",
+        "Printing stations are available in the library and some common areas, {name}. You can print documents for a small charge per page."
+    ],
+    "weather": [
+        "The weather in this area can be unpredictable, {name}. Be sure to check the forecast daily, especially during the fall and winter months.",
+        "Expect mild summers and cold winters, {name}. Be prepared for rain and snow in the winter, so bring a jacket and umbrella."
+    ],
+    "parking": [
+        "Student parking is available in designated areas, {name}. Be sure to get a parking pass from the campus services office.",
+        "Parking is available for students in certain areas, {name}. Be sure to check parking regulations on the website to avoid fines."
+    ],
+    "graduation": [
+        "Graduation ceremonies take place in May and December, {name}. Make sure to apply for graduation before the deadline.",
+        "If you're nearing the end of your studies, {name}, make sure to check the graduation requirements and deadlines on the university website."
+    ],
+    "it support": [
+        "For IT support, {name}, you can visit the helpdesk at the main building or submit a request online through the IT portal.",
+        "If you're having technical issues, {name}, the IT support team can assist you with network problems, software installations, and more."
+    ],
+    "study abroad": [
+        "We offer study abroad programs, {name}, for students who want to experience learning in another country. Check with the international office for details.",
+        "If you're interested in studying abroad, {name}, you can visit the international office for information on exchange programs."
+    ],
+    "financial aid": [
+        "For financial aid information, {name}, you can visit the financial aid office or fill out the online application for scholarships and grants.",
+        "The financial aid office offers scholarships, grants, and loan information, {name}. Be sure to submit your application early."
+    ],
+    "workshops": [
+        "Workshops on various topics like study skills, time management, and career development are held throughout the year, {name}. Keep an eye on the events calendar.",
+        "We host workshops on subjects such as resume building, interview skills, and more, {name}. You can register online for these workshops."
+    ],
+    "summer courses": [
+        "We offer a variety of summer courses, {name}. You can register online or speak with an academic advisor for more information.",
+        "Summer courses are available for many subjects, {name}, and registration opens early in the spring semester. Don’t miss the deadlines."
+    ],
+    "online courses": [
+        "Online courses are available in many subjects, {name}. You can enroll in these through the student portal.",
+        "We offer a variety of online courses for distance learners, {name}. Check the online catalog for available options."
+    ],
+    "research opportunities": [
+        "If you're interested in research, {name}, you can join research groups or internships in various departments. Talk to your professors for more information.",
+        "Our university offers numerous research opportunities, {name}, across different fields. Speak with your department to get started."
+    ],
+    "housing application": [
+        "The housing application is available online, {name}, but make sure to submit it early. Spaces fill up fast for on-campus living.",
+        "You can apply for on-campus housing through the housing office, {name}. Be sure to check the deadlines for applications."
+    ],
+    "study rooms": [
+        "You can book study rooms at the library, {name}, or in some academic buildings. It’s free, but booking is required.",
+        "There are study rooms available on campus, {name}, and you can book them online through the student portal."
+    ],
+    "job fairs": [
+        "Job fairs are held every semester, {name}, where you can meet potential employers. Keep an eye on the career services page for upcoming events.",
+        "The career services office organizes job fairs throughout the year, {name}. It’s a great chance to meet recruiters and learn about job openings."
+    ],
+    "volunteer opportunities": [
+        "There are several volunteer opportunities around the campus, {name}, including tutoring and community outreach programs.",
+        "Volunteering is a great way to get involved, {name}. You can check with the student union for upcoming volunteer events and programs."
+    ]
+}
